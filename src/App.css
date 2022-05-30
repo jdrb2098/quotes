@@ -12,6 +12,7 @@
   background-color: white;
   flex-direction: column;
   border-radius: 1rem;
+  justify-content: center;
 }
 .row {
   display: flex;
